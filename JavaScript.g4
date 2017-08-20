@@ -7,9 +7,7 @@ grammar JavaScript;
 
 options
 {
-	output=AST;
-	backtrack=true;
-	memoize=true;
+	tokenVocab = JavaScript;
 }
 
 program
