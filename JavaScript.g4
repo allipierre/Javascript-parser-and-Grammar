@@ -2,7 +2,7 @@
   Copyright 2017 Alli Pierre Yotti.
   All rights reserved.
 */
-
+//grun JavaScript program -gui F1
 grammar JavaScript;
 
 options
